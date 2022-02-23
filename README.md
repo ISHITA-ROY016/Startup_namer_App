@@ -1,3 +1,4 @@
 # startup_namer
 
-A new Flutter project on generating random names for new startups. The app uses an infinite scrolling ListView to generate new names and a clickable heart icon to save favourite names and show them in a new route.
+<h1 align="center">Startup Name Generator</h1>
+![image-of-the-app](assets2/demo.gif)
